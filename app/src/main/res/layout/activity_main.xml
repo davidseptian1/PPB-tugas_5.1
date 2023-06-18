@@ -19,6 +19,7 @@
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:text="@string/team_1"
+            android:textColor="@color/black"
             style="@style/TeamText" />
 
         <ImageButton
@@ -63,6 +64,7 @@
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:text="@string/team_2"
+            android:textColor="@color/black"
             style="@style/TeamText" />
 
         <ImageButton
